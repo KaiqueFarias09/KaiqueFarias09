@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+-💻HTML, CSS and JavaScript
 
 <br />
 <br />
