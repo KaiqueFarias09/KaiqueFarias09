@@ -1,6 +1,6 @@
 ### Hi there, I'm Kaique 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer and UI Designer ✨
 
 - 🌱 I’m currently learning UI and UX
 - 👯 I’m looking to collaborate with other content creators
@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/179/179342.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][instagram]
 
@@ -32,7 +31,5 @@
 <br />
 
 ---
-
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/kiqkiwi
+[linkedin]: https://www.linkedin.com/in/kaique-souza-farias-5677b217b
