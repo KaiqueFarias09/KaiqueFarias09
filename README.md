@@ -2,7 +2,7 @@
 
 ## I'm a Developer and UI Designer ✨
 
-- 🌱 I’m currently learning UI and UX
+- 🌱 I’m currently learning UI/UX and JavaScript
 - 🥅 2021 Goals: Learn Flutter and Python
 - ⚡ Fun fact: I love to draw and listen to music
 
