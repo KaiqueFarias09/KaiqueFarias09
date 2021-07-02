@@ -3,8 +3,7 @@
 ## I'm a Developer and UI Designer ✨
 
 - 🌱 I’m currently learning UI and UX
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn German and Python
+- 🥅 2021 Goals: Learn Flutter and Python
 - ⚡ Fun fact: I love to draw and listen to music
 
 
